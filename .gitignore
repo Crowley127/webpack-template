@@ -1,0 +1,9 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# files
+node_modules
+dist/*
+!dist/index.html

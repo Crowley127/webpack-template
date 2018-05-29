@@ -1,0 +1,8 @@
+@import './scss/layout.scss';
+$red: red;
+$s2: 2em;
+#root{
+  color: $red;
+  font-size: $s2;
+  display: flex;
+}
