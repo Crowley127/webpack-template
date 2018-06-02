@@ -5,5 +5,5 @@ Desktop.ini
 
 # files
 node_modules
-dist/*
-!dist/index.html
+dist
+change_log.text
