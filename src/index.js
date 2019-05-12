@@ -1,3 +1,3 @@
-const scss = require('./index.scss');
-const app = require('./js/app.js');
+import scss from './index.scss';
+import app from './js/app.js';
 document.querySelector('#root').appendChild(app());
